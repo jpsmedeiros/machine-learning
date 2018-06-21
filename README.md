@@ -1,4 +1,4 @@
-#Trabalho 03 - IA
+# Trabalho 03 - IA
 ## Machine Learning
 
 ## Dataset escolhido
