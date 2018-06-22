@@ -7,7 +7,8 @@
 - https://archive.ics.uci.edu/ml/datasets/Entree+Chicago+Recommendation+Data
 
 ## Como incializar
-	todo
+- Instalar a distribuição do Python Anaconda: www.anaconda.com/download/
+- Já com o Python instalado, instalar o scikit-learn através do comando: ``` pip install -U scikit-learn ```
 
 ## Membros 
 	Alysson Gomes
