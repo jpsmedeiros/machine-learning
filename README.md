@@ -9,6 +9,7 @@
 
 ## Como incializar
 - Instalar a distribuição do Python Anaconda: www.anaconda.com/download/ (3.6)
+-- Ao instalar o Anaconda, habilite a opção de configurar a variavel de ambiente, mes que não recomendada
 - Já com o Python instalado, instalar o scikit-learn através do comando: ``` pip install -U scikit-learn ```
 - Clonar este repositório
 - Baixar o dataset http://baltrunas.info/data/frappe.zip
