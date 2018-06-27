@@ -1,3 +1,0 @@
-Extract the frappe dataset here
-
-http://baltrunas.info/data/frappe.zip
